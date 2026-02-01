@@ -2,7 +2,7 @@
 
 🎓 B.Tech Computer Science (AI & Robotics) – VIT 
 
-🔐 Aspiring Cybersecurity Engineer with strong Machine Learning & Blockchain foundations 
+🔐 Aspiring Engineer with strong Python & Machine Learning Foundations
 
 ---
 
